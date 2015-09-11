@@ -1,4 +1,4 @@
-## side_projects
+## jph_sandbox
 
 For saving cool bits of code and improving on it.
 
