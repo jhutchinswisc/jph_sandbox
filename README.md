@@ -16,3 +16,6 @@ A sandbox for writing different econometric models from scratch in python and im
 Needed improvements:
 - Fixed effects model still does not work for an unbalanced panel, nor for clustered standard errors.
 
+####Python Econ:
+Code for producing illustrative examples of graphs to show concepts in economic theory
+
